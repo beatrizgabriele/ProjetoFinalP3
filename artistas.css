@@ -1,0 +1,44 @@
+.dropdown {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 4px;
+    border-radius: 25px 0 0 25px;
+    cursor: pointer;
+}
+.dropdown-content {
+    width: 100%;
+    flex-shrink: 0;
+}
+
+.top-section{
+    color: rgb(219, 213, 213);
+    float: right;
+    
+}
+.social{
+    padding-top: 20px;
+    float: left;
+}
+.menu nav{
+    background-color: #090909;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: italic;
+}
+nav{
+    background-color: rgb(160, 160, 160);
+    padding: 4px 0;
+}
+.btn-login{
+ border:0px ;
+ border-radius: 24px;
+ background-color: #000000;
+ color: #ddd;
+ padding: 5px;
+ font-family: "Raleway", sans-serif;
+ font-optical-sizing: auto;
+ font-weight: weight;
+ font-style: italic;
+ 
+}
